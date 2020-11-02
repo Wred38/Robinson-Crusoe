@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T17:12:05.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="Mu_cYXl5oXyjV94KVosn" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T17:14:02.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15" etag="_4R6lCIQPCGKb4Y6zL0h" version="13.8.8" type="github">
   <diagram id="9FkZDd5_ULd7eX7EfcNi" name="Page-1">
     <mxGraphModel dx="925" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="230" y="149" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="F7hzD26JAjAvRqU9A06Q-10" value="IDEJA&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Nikoli se ne predaj, saj ti z ustrajnostjo in trudom lahko uspe doseči cilj.&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=19;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="190" y="448" width="120" height="322" as="geometry" />
+          <mxGeometry x="190" y="448" width="120" height="382" as="geometry" />
         </mxCell>
         <mxCell id="F7hzD26JAjAvRqU9A06Q-12" value="MOTIVI&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Pogum&lt;br&gt;Iznajdljivost&lt;br&gt;Nesreča&lt;br&gt;Neustrašnost&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=19;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="460" y="448" width="120" height="322" as="geometry" />
+          <mxGeometry x="460" y="448" width="120" height="382" as="geometry" />
         </mxCell>
-        <mxCell id="F7hzD26JAjAvRqU9A06Q-14" value="TEMA&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Robinson ima rad potovanja, a se nikoli ne končajo dobro, saj doživi brodolom ali pa ga prodajo za sužnja&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=19;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="325" y="448" width="120" height="322" as="geometry" />
+        <mxCell id="F7hzD26JAjAvRqU9A06Q-14" value="TEMA&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Robinson ima rad potovanja, a se nikoli ne končajo dobro, saj doživi brodolom ali pa ga prodajo za sužnja, a konec je vselej srečen (Robinson odpluje v Anglijo).&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=19;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="325" y="448" width="120" height="382" as="geometry" />
         </mxCell>
         <mxCell id="F7hzD26JAjAvRqU9A06Q-17" value="ZVRST&lt;br&gt;&lt;br&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;Pustolovski roman&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;fontSize=19;fontStyle=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="410" y="90" width="120" height="154" as="geometry" />
